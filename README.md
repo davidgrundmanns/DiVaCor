@@ -1,9 +1,11 @@
 # DiVaCor
 
+### Links
+
+#### On YouTube:
 [![Video Introduction to the DiVaCor Dashboard on YouTube](https://i3.ytimg.com/vi/ouZwqLNO--s/maxresdefault.jpg)](https://www.youtube.com/watch?v=ouZwqLNO--s)
 
-### Links
-Submission:
+#### Further links:
 - [on devpost.com](https://devpost.com/software/divacor?_gl=1*185l777*_ga*MTg0NjczMDQ5OC4xNzYxNzUyNjcx*_ga_0YHJK3Y10M*czE3NjE3NTI2NzEkbzEkZzAkdDE3NjE3NTI2NzEkajYwJGwwJGgw)
 
 Vorstellung der Platform:
@@ -11,7 +13,7 @@ Vorstellung der Platform:
 
 ---
 
-### Info (from devpost.com by Lars Geißler)
+### Info ([from devpost.com by Lars Geißler](https://devpost.com/software/divacor?_gl=1*185l777*_ga*MTg0NjczMDQ5OC4xNzYxNzUyNjcx*_ga_0YHJK3Y10M*czE3NjE3NTI2NzEkbzEkZzAkdDE3NjE3NTI2NzEkajYwJGwwJGgw))
 
 #### Inspiration
 
